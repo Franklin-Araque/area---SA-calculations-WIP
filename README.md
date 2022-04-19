@@ -1,4 +1,4 @@
-# area---SA-calculations
+# area---SA-calculations WIP
 code to calculate the surface area or area of shapes with the user input 
 from decimal import Decimal
 import math
